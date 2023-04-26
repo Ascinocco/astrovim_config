@@ -15,4 +15,5 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.colorscheme.nightfox" },
+  { import = "astrocommunity.git.git-blame-nvim" },
 }
